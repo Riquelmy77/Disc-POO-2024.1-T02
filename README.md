@@ -61,7 +61,11 @@
 
 |Questão|Enunciado|
 |-------|---------|
-
+|05|Faça um programa que receba dois números e execute as operações listadas a seguir, de acordo com a escolha do usuário.|
+|02|Faça um programa que receba duas notas, calcule e mostre a média aritmética e a mensagem que se encontra na tabela a seguir:|
+|12|Faça um programa que receba o salário bruto de um funcionário e, usando a tabela a seguir, calcule e mostre o valor a receber. Sabe-se que este é composto pelo salário bruto acrescido de gratificação e descontado o imposto de 7% sobre o salário.|
+|16|Uma empresa decide aplicar descontos nos seus preços usando a tabela a seguir. Faça um programa que receba o preço atual de um produto e seu código, calcule e mostre o valor do desconto e o novo preço.|
+|18|Faça um programa que receba a idade de uma pessoa e mostre a mensagem de maioridade ou não.|
 </details>
 
 
@@ -223,6 +227,10 @@
 ||Faça um programa que leia o código do cliente, o tipo do investimento e o valor investido, e que calcule e mostre o rendimento mensal de acordo com o tipo do investimento. No final, o programa deverá mostrar|
 ||o total investido e o total de juros pagos.|
 ||A leitura terminará quando o código do cliente digitado for menor ou igual a 0.|
+
+
+
+
 
 
 
